@@ -33,5 +33,3 @@ Before running the code, make sure you have the following prerequisites:
 - Customize the bot's logic to detect suspicious activity in the data being sent.
 
 
-## License
-
